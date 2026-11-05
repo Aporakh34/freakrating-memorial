@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <!-- фирменная шестилучевая звёздочка из Sparkle.tsx, кобальт на чёрном -->
+  <rect width="24" height="24" fill="#000000"/>
+  <path
+    d="M12 1.5 L13.4 9.2 L21.5 7.4 L14.8 12 L21.5 16.6 L13.4 14.8 L12 22.5 L10.6 14.8 L2.5 16.6 L9.2 12 L2.5 7.4 L10.6 9.2 Z"
+    fill="#1f58f2"
+    stroke="#4f7dff"
+    stroke-width="1"
+    stroke-linejoin="round"
+    transform="rotate(8 12 12)"
+  />
+</svg>
